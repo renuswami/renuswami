@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**renuswami/renuswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm Renu
+</div>
 
-Here are some ideas to get you started:
+Backend Developer | Java Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working at Miraj Sports as Backend Developer  
+🌱 Learning Node.js and MongoDB  
+👯 Looking to collaborate on backend projects  
+💬 Ask me about Node.js, Java, and Android app development  
+📫 Reach me at: renuswami2001@gmail.com  
+
+Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/renu-swami) | [GitHub](https://github.com/Rajansinghg)
+
+---
+
+### Languages and Tools:
+Java | Node.js | JavaScript | HTML | CSS | Postman | MySql | Git | Android App Development
+
