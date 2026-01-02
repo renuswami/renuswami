@@ -4,12 +4,13 @@
 </div>
 <small>
 
-Backend Developer | Java Enthusiast
+Software Engineer | Salesforce Enthusiast
 
-🔭 Currently working at Miraj Sports as Backend Developer  
-🌱 Learning Node.js and MongoDB  
-👯 Looking to collaborate on backend projects  
-💬 Ask me about Node.js, Java, and Android app development  
+🔭 Software Engineer at UntangleIt  
+🌱 Actively learning and working with Salesforce  
+👯 Interested in collaborating on backend and cloud-based projects  
+💬 Happy to help with Salesforce, Java, and Android development topics  
+
 📫 Reach me at: renuswami2001@gmail.com  
 
 Connect with me:  
@@ -19,10 +20,11 @@ Connect with me:
 
 ### Languages and Tools:
 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-1B96FF?style=for-the-badge&logo=lightning&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </small>
