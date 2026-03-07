@@ -6,7 +6,7 @@
 
 Software Engineer | Salesforce Enthusiast
 
-🔭 Software Engineer at UntangleIt  
+🔭 Software Engineer at UntangleIT
 🌱 Actively learning and working with Salesforce  
 👯 Interested in collaborating on backend and cloud-based projects  
 💬 Happy to help with Salesforce, Java, and Android development topics  
